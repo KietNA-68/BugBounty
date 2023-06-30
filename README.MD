@@ -1,4 +1,4 @@
-![](https://hackmd.io/_uploads/ryHUxXjOn.png)
+![](https://i.imgur.com/OyTrQid.png)
 
 # **Reconnaissance**
 Bật Wappalyzer lên thì mình thấy target là 1 website chạy wordpress version 5.9.3
